@@ -9,6 +9,6 @@ options:</br>
   -h,  --help            show this help message and exit</br>
    --atr-info            Prints ATR information of current device</br>
    -r [SAVE_PATH]         Reads the card</br>
-    --crack [KEYLIST_PATH]       Bruteforce the card with keys</br>
+    --crack [KEYLIST_PATH]       Bruteforce the card with keys, KEYLIST_PATH is optional. Setted default to 'keys.txt' </br>
   --crack-sector [SECTOR]      Bruteforce specified sector with keys</br>
                         
